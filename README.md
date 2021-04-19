@@ -2,7 +2,8 @@
 
 Hi, My name is Le Nguyen Phu Sang, a self-taught Machine Learning Engineer and Data Scientist.
 
-- 🔭 I’m currently study at [Vaasa University of Applied Science](https://www.vamk.fi/apply/degree_students/degree_programmes/information_technology/)
+- I’m currently study at [Vaasa University of Applied Science](https://www.vamk.fi/apply/degree_students/degree_programmes/information_technology/)
+- Experience with Python, C and Javascript
 
 <br/>
 <hr>
