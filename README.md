@@ -11,8 +11,6 @@ Hi, My name is Le Nguyen Phu Sang, a self-taught Machine Learning Engineer and D
 ### Languages & Tools Preference
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img align="left" alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img align="left" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-02cf17?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img align="left" alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-013485.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/>
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 
@@ -24,9 +22,12 @@ Hi, My name is Le Nguyen Phu Sang, a self-taught Machine Learning Engineer and D
 
 
 <img align="left" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img align="left" alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img align="left" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-02cf17?style=for-the-badge&logo=anaconda&logoColor=white" />
+
 
 
 <hr>
