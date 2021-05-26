@@ -10,7 +10,6 @@ Hi, My name is Le Nguyen Phu Sang, a self-taught Machine Learning Engineer and D
 
 ### Languages & Tools Preference
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="MATLAB" src="https://img.shields.io/badge/matlab%20-%23E34F26.svg?&style=for-the-badge&logo=matlab&logoColor=white"/>
 <img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img align="left" alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img align="left" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-02cf17?style=for-the-badge&logo=anaconda&logoColor=white" />
