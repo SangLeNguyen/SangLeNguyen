@@ -9,9 +9,9 @@ A self-taught Machine Learning Engineer and Javascript Developer.
 
 ### Languages & Tools Preference
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img  alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
-<img  alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-013485.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/>
+<img  align="left" alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-013485.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/>
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img align="left"  alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
