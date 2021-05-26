@@ -14,7 +14,6 @@ Hi, My name is Le Nguyen Phu Sang, a self-taught Machine Learning Engineer and D
 <img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img align="left" alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img align="left" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-02cf17?style=for-the-badge&logo=anaconda&logoColor=white" />
-<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
 <img align="left" alt="Matplotlib" src="https://img.shields.io/badge/matplotlib%20-013485.svg?&style=for-the-badge&logo=Matplotlib&logoColor=white"/>
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
