@@ -1,6 +1,6 @@
 ### Hi everyone, I'm [SANGLE](https://github.com/SangLeNguyen) :smirk:, this is a professional profile. 
 .
-
+[1](https://media.giphy.com/media/fvf71YSL7vymjQrpHE/giphy.gif)
 
 <br/>
 <hr>
