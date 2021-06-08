@@ -1,6 +1,6 @@
 ### Hi everyone, I'm [SANGLE](https://github.com/SangLeNguyen) :smirk:
 
-A self-taught Machine Learning Engineer and Javascript Developer.
+A self-taught Software Engineer and Mobile Developer.
 
 - I’m currently study at [Vaasa University of Applied Science](https://www.vamk.fi/apply/degree_students/degree_programmes/information_technology/)
 
