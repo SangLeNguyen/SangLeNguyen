@@ -1,7 +1,8 @@
 ### Hi everyone, I'm [SANGLE](https://github.com/SangLeNguyen) :smirk:, this is a professional profile. 
 .
 
-- I’m currently study at [Vaasa University of Applied Science](https://www.vamk.fi/apply/degree_students/degree_programmes/information_technology/)
+| ![1](https://media.giphy.com/media/MT5UUV1d4CXE2A37D) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
+| --- | --- | --- |
 
 <br/>
 <hr>
