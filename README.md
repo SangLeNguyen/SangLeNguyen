@@ -1,4 +1,4 @@
-### Hi everyone, I'm [SANGLE](https://github.com/SangLeNguyen) :smirk:, this is a software engineerprofile. 
+### Hi everyone, I'm [SANGLE](https://github.com/SangLeNguyen) :smirk:, this is a software engineer profile. 
 .
 | ![1](https://media.giphy.com/media/fvf71YSL7vymjQrpHE/giphy.gif) | ![2](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) |
 | --- | --- | 
