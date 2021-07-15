@@ -13,7 +13,7 @@
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?logo=Javascript&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="React Native" src="https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-<img align="left" alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-brightgreen?logo=Nodejs&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-brightgreen?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
