@@ -9,6 +9,7 @@
 
 ### Languages & Tools Preference
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" alt="Go" src="https://img.shields.io/badge/-Go-7fd5ea?logo=Go&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?logo=Javascript&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="React Native" src="https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
