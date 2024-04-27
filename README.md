@@ -1,6 +1,6 @@
 ### Hi everyone, I'm [SANGLE](https://github.com/SangLeNguyen) :smirk:, this is a software engineer profile. 
 .
-| ![1](<iframe src="https://giphy.com/embed/ITRemFlr5tS39AzQUL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL">via GIPHY</a></p>) | ![2](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) |
+| ![1](https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif) | ![2](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) |
 | --- | --- | 
 
 
