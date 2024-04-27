@@ -8,18 +8,21 @@
 <hr>
 
 ### Languages & Tools Preference
-<img align="left" alt="Go" src="https://img.shields.io/badge/-Go-7fd5ea?logo=Go&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3776AB?logo=Python&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4EABE6?logo=Seaborn&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge"/>
+
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?logo=Javascript&logoColor=white&style=for-the-badge"/>
-<img align="left" alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-<img align="left" alt="React Native" src="https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="Nodejs" src="https://img.shields.io/badge/-NodeJs-brightgreen?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img align="left" alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-
-
-
 
 <hr>
 
