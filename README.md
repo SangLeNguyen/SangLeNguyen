@@ -1,6 +1,7 @@
 ### Hi everyone, I'm [SANGLE](https://github.com/SangLeNguyen) :smirk:, this is a data and AI enthusiasm profile. 
 
-![1](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif) | ![2](https://media.giphy.com/media/GVvrU5IhK0V4j7Gbxp/giphy.gif)
+![1](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
+![2](https://media.giphy.com/media/GVvrU5IhK0V4j7Gbxp/giphy.gif)
 
 
 <br/>
